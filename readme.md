@@ -185,6 +185,7 @@ _Sorted alphabetically_
 * [Economics Games](http://economics-games.com/) - Free online classroom games for teaching economics.
 * [Quantitative Economics](https://lectures.quantecon.org/py/index.html) - Lecture series by Thomas J. Sargent and John Stachurski using Python computational tools.
 * [Top 100 Economics Blogs](https://www.intelligenteconomist.com/top-economics-blogs-2016/) - Links to popular economics blogs, with brief descriptions.
+* [Econ Academy](https://econ.academy) - Free interactive intro micro and macro course with draggable graphs, draw-the-graph exercises graded automatically, and a central bank simulator.
 
 
 ## License
